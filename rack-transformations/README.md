@@ -46,39 +46,77 @@ Holding a **Cisco Certified Network Associate (CCNA)** certification proves rigo
 
 *Note: The photos below represent a small portion of the infrastructure projects I have executed.*
 
-### 🛠️ Rack Transformation 1: Server Room Cleanup
-![Legacy Rack Cleanup](photos/rack_3-vp.jpg)
-*Figure 1: Tracing and auditing legacy drops, removing unneeded jumpers, and applying structured horizontal cable management.*
+
+### 🛠️ Rack Transformation 1: High-Density Patch Panel & Switch Overhaul
+
+
+* **Challenge:** Severe cable clutter involving hundreds of red and white Ethernet drops, preventing port tracing and obstructing rack doors.
+* **Solution:** Installed horizontal Panduit cable managers, replaced oversized patch cords with precise-length cabling, organized color-coded VLAN paths, and secured bundles using industrial hook-and-loop (velcro) straps.
+
+
+![🛠️ Rack Transformation 1](photos/rack_3-vp.jpg)
+
 
 ---
 
-### 🛠️ Rack Transformation 2: Core Distribution & Cisco Switching
-![Cisco Switch Rack Deployment](photos/rack_po.jpg)
-*Figure 2: Re-cabling Cisco Catalyst switches with custom-length patch cables, organized by service VLANs.*
+
+### 🛠️ Rack Transformation 2: Enterprise Data Center Multi-Cabinet Standardization
+
+
+* **Challenge:** Multiple server cabinets suffering from "cable waterfalls" that disrupted airflow, created physical tension on SFP modules, and slowed down system auditing.
+* **Solution:** Full physical restructuring of multi-rack enclosures. Routed inter-cabinet links through dedicated overhead/side raceways, improved thermal performance, and closed cabinet doors for a clean, production-ready environment.
+
+  
+![🛠️ Rack Transformation 2](photos/rack_po.jpg)
+
 
 ---
 
-### 🛠️ Rack Transformation 3: High-Density Patching & Fiber ODF
-![Fiber and Ethernet Patch Panel](photos/rack.jpg)
-*Figure 3: Clean patch panel distribution with fiber optic tray routing, preventing bend radius losses.*
+### 🛠️ Rack Transformation 3: Data Center Main Distribution Frame (MDF) Row Cleanup
+
+* **Challenge:** A full row of legacy cabinets with hazardous dangling cabling hanging into walkways and obstructing emergency maintenance access.
+* **Solution:** Comprehensive recabling of the entire MDF row. Bundled trunk lines along chassis frames, applied strict TIA/EIA labeling standards, and drastically improved overall facility safety and troubleshooting speed.
+
+  
+![🛠️ Rack Transformation 3](photos/rack.jpg)
+
 
 ---
 
-### 🛠️ Rack Transformation 4: Power & Cable Dressing
-![Organized Server Rack Rear](photos/rack_5-kp.jpg)
-*Figure 4: Rear-rack cable dressing and PDU power delivery separation to eliminate EMI (Electromagnetic Interference).*
+
+### 🛠️ Rack Transformation 4: Mixed Copper & Fiber Core Rack Optimization
+
+
+* **Challenge:** High-density rack with tangled aqua OM3/OM4 fiber jumpers and copper patch cords blocking equipment exhaust vents and switch ports.
+* **Solution:** Rerouted optical fiber lines through vertical cable channels to prevent bend-radius attenuation, bundle-dressed Ethernet runs, and restored clear visibility across all Cisco switches and ODF panels.
+
+
+![🛠️ Rack Transformation 4](photos/rack_5-kp.jpg)
+
 
 ---
 
-### 🛠️ Rack Transformation 5: Completed Server Room Upgrade
-![Finalized Network Rack](photos/rack-ergo.jpg)
-*Figure 5: Fully transformed server rack with zero dangling cables, documented ports, and unobstructed thermal airflow.*
+
+### 🛠️ Rack Transformation 5: Wall-Mounted Fiber Enclosure Splicing & Termination
+
+* **Challenge:** Loose, un-terminated fiber optic strands hanging out of a wall-mounted enclosure in a remote distribution node.
+* **Solution:** Performed precision optical fiber splicing, labeled all individual fiber strands for circuit identification, neatly coiled excess buffer tubes inside the splice tray, and secured the wall cabinet.
+
+  
+![🛠️ Rack Transformation 5](photos/rack-ergo.jpg)
+
 
 ---
 
-### 🛠️ Rack Transformation 6: Final Compliance Check
-![Clean Network Infrastructure](photos/rack_7-vp.jpg)
-*Figure 6: Completed deployment ready for production uptime, monitoring (Zabbix/PRTG), and easy long-term maintenance.*
+
+### 🛠️ Rack Transformation 6: Fiber Optic Distribution Frame (ODF) & SFP+ Alignment
+
+* **Challenge:** Disorganized multimode fiber jumpers placing stress on SFP/SFP+ optical transceivers and risking glass core micro-fractures.
+* **Solution:** Cleaned and polished optical connectors, properly seated LC fiber patches into high-density ODF trays, and routed uplinks with zero physical stress on high-speed Cisco switch uplinks.
+
+  
+![🛠️ Rack Transformation 6](photos/rack_7-vp.jpg)
+
 
 ---
 
