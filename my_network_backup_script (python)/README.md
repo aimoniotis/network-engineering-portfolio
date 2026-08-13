@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Protocol-SSH%20%26%20Telnet-FF6F00?style=for-the-badge" alt="SSH and Telnet">
   <img src="https://img.shields.io/badge/Scale-200%2B%20Devices-008000?style=for-the-badge" alt="Scale">
 </p>
-
+ 
 An enterprise-grade, multi-protocol automated backup solution engineered to handle full configuration management for **200+ critical Cisco switches and routers** across a distributed network infrastructure. 
 
 By leveraging **SSH (`paramiko`)** for modern assets and legacy **Telnet (`telnetlib`)** for older nodes, this tool automates daily state collection, ensures configuration retention, tracks unreachable hosts, and seamlessly integrates with **Windows Task Scheduler**.
