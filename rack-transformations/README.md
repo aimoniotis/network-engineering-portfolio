@@ -115,7 +115,7 @@ Holding a **Cisco Certified Network Associate (CCNA)** certification proves rigo
 * **Solution:** Cleaned and polished optical connectors, properly seated LC fiber patches into high-density ODF trays, and routed uplinks with zero physical stress on high-speed Cisco switch uplinks.
 
   
-![🛠️ Rack Transformation 6](photos/rack_7-vp.jpg)
+![🛠️ Rack Transformation 6](photos/inshot__.jpg)
 
 
 ---
