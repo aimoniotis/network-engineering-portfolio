@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/PHP--FPM-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Redis-Memory%20Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
-
+ 
 A high-performance, hardened **Nextcloud** deployment architecture designed for small business productivity, private cloud storage, and secure team collaboration. 
 
 This repository contains production-ready configuration files for **Nginx**, **PHP-FPM**, **Redis**, and **Nextcloud (`config.php`)**, optimized for low memory overhead, high IOPS, fast file synchronization, and transactional file locking.
