@@ -1,6 +1,4 @@
-# Welcome to my repository, 
-# I'm Konstantinos Aimoniotis 👋 
-# Hi, I'm Konstantinos 👋 
+# Welcome to my repository, I'm Konstantinos Aimoniotis 👋 
 ### Network, Systems & Security Infrastructure Engineer (5+ Years Experience)
 
 <p align="left">
