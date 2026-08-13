@@ -83,3 +83,5 @@ To ensure rapid troubleshooting, the following cable coloring scheme was impleme
 * 🌡️ **Thermal Performance:** Improved rack airflow, lowering switch intake temperatures.
 * 🔒 **Reliability:** Eliminated accidental link disconnections caused by weight strain on switch ports.
 ![Description of Photo](rack-tranformations/InShot_20260812_170123847.jpg)
+![Rack Before](InShot_20260812_170123847.jpg)
+![Rack After](InShot_20260812_171412962.jpg)
