@@ -3,7 +3,7 @@
 Welcome to my **Greenfield Infrastructure Engineering** showcase! As a **CCNA Certified Systems & Network Infrastructure Engineer**, I design and build enterprise network environments from the ground up (scratch). 
 
 This repository highlights end-to-end computer room deployments—from raw rack assembly, thermal/electrical wiring, and structured cabling, to the provisioning of **Cisco Catalyst 9300 Series Switches** operating with **20 Gbps EtherChannel uplinks**.
-
+ 
 ---
 
 ## 🚀 Greenfield Deployment Lifecycle (From 0 to Production)
