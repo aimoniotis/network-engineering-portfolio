@@ -82,3 +82,4 @@ To ensure rapid troubleshooting, the following cable coloring scheme was impleme
 * ⏱️ **Troubleshooting Speed:** Reduced cable tracing and MAC (Moves, Adds, Changes) time by ~70%.
 * 🌡️ **Thermal Performance:** Improved rack airflow, lowering switch intake temperatures.
 * 🔒 **Reliability:** Eliminated accidental link disconnections caused by weight strain on switch ports.
+![Description of Photo](rack-tranformations/InShot_20260812_170123847.jpg)
