@@ -28,7 +28,7 @@ Building a reliable computer room infrastructure requires precision at every lay
 ## 📸 Greenfield Project Gallery
 
 ### 🛠️ Step 1: Enclosure Thermal Management & Electrical Wiring
-![Rack Fan Tray and Thermostat Setup](photos/InShot_20260812_190627958.jpg)
+![Rack Fan Tray and Thermostat Setup](photos/InShot_fans.jpg)
 * **Description:** Custom wiring and mounting of an overhead cabinet cooling system. Dual AC fan units are integrated with an adjustable mechanical thermostat to automatically activate active exhaust when internal rack temperatures cross operational thresholds.
 
 ---
