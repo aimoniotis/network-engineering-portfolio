@@ -1,5 +1,5 @@
 # ☁️ Enterprise Nextcloud Deployment (Small Business Edition)
-
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/Nextcloud-Hub-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white" alt="Nextcloud">
   <img src="https://img.shields.io/badge/Ubuntu-Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">

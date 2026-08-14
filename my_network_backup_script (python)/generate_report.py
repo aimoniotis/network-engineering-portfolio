@@ -1,6 +1,6 @@
 import os
 from datetime import datetime
-
+ 
 def generate_daily_report(backup_base_dir="BackUps"):
     # 1. Determine today's backup directory (e.g., BackUps/13-08-2026)
     today_str = datetime.today().strftime("%d-%m-%Y")

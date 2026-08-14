@@ -1,5 +1,5 @@
 <?php
-
+ 
 /*
  * Nextcloud Primary Configuration File
  * Location: /var/www/nextcloud/config/config.php
