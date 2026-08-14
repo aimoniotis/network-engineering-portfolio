@@ -29,6 +29,7 @@
 ### 🛠️ Core Tech Stack & Badges
 
 #### Networking, VoIP & Firewalls
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_CUCM-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212529?style=for-the-badge&logo=pfsense&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-D9534F?style=for-the-badge&logo=opnsense&logoColor=white)
