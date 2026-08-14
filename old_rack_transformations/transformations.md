@@ -1,5 +1,5 @@
 # 🔌 Network Infrastructure & Rack Transformations
-
+ 
 Welcome to my Infrastructure Engineering showcase! As a **CCNA Certified Network & Systems Infrastructure Engineer**, I specialize in stepping into legacy server rooms, identifying poor installations or hardware clutter left behind by previous setups, and executing full physical and logical transformations.
 
 This repository demonstrates a **selected sample** of my real-world rack cleanups, cable management projects, and hardware modernizations.
