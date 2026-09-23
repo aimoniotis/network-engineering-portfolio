@@ -1,9 +1,9 @@
 # Welcome to my repository, I'm Konstantinos Aimoniotis 👋 
-### Network, Systems & Security Infrastructure Engineer (5+ Years Experience)
+### Network, Systems & Security Infrastructure Engineer (9+ Years Experience)
  
 <p align="left">
   <b>🛡️ Armed Forces Tech Corps</b> | 
-  <b>⏳ 5+ Years Industry Experience</b> | 
+  <b>⏳ 9+ Years Industry Experience</b> | 
   <b>📜 CCNA Certified</b><br>
   <b>🎓 BSc Student in Informatics @ HOU ('30)</b> | 
   <b>📍 Athens, Greece</b>
