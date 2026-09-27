@@ -67,5 +67,5 @@
 ### 📁 Project Repositories
 
 - [Andromeda NetKit](https://github.com/aimoniotis/Andromeda-NetKit) — desktop network diagnostics toolkit.
-- [Network Backup Automation](https://github.com/aimoniotis/my-network-backup-script) — SSH/Telnet configuration backup examples.
-- [Nextcloud Small Business Configuration](https://github.com/aimoniotis/my-nextcloud-configuration) — self-hosted Nextcloud configuration templates.
+- [Cisco Devices Python Massive Backups](https://github.com/aimoniotis/Cisco-Devices-Python-Massive-Backups) — SSH/Telnet configuration backup examples.
+- [Nextcloud Small Business Template](https://github.com/aimoniotis/Nextcloud-Small-Business-Template) — self-hosted Nextcloud configuration templates.
