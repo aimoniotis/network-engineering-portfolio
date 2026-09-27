@@ -61,3 +61,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+---
+
+### 📁 Project Repositories
+
+- [Andromeda NetKit](https://github.com/aimoniotis/Andromeda-NetKit) — desktop network diagnostics toolkit.
+- [Network Backup Automation](https://github.com/aimoniotis/my-network-backup-script) — SSH/Telnet configuration backup examples.
+- [Nextcloud Small Business Configuration](https://github.com/aimoniotis/my-nextcloud-configuration) — self-hosted Nextcloud configuration templates.
